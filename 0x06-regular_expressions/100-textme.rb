@@ -90,7 +90,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-7beb01aa0515.js"></script>
 
 
-  <title>holberton-system_engineering-devops/0x06-regular_expressions/100-textme.rb at master · Raid55/holberton-system_engineering-devops</title>
+  <title>alx-system_engineering-devops/0x06-regular_expressions/100-textme.rb at master · nuel07/alx-system_engineering-devops</title>
 
 
 
@@ -100,10 +100,10 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="F1AD:1CDF:215D0EA6:21D7329B:64A41E93" data-turbo-transient="true" /><meta name="html-safe-nonce" content="270ae52ec6c2f4d7a319891dca9b9390eeb76f61573425029ece2eae7b70a83e" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9SYWlkNTUvaG9sYmVydG9uLXN5c3RlbV9lbmdpbmVlcmluZy1kZXZvcHMvdHJlZS9tYXN0ZXIvMHgwNi1yZWd1bGFyX2V4cHJlc3Npb25zIiwicmVxdWVzdF9pZCI6IkYxQUQ6MUNERjoyMTVEMEVBNjoyMUQ3MzI5Qjo2NEE0MUU5MyIsInZpc2l0b3JfaWQiOiIyODgyNjM4NjI4OTIwMDI3MTI3IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="7c52041f94f4457827654e1fd19951a3a52384f27b0085cbf3825b1e5f264f67" data-turbo-transient="true" />
+  <meta name="request-id" content="F1F8:96C6:381519C:38CC89E:64A42126" data-turbo-transient="true" /><meta name="html-safe-nonce" content="270ae52ec6c2f4d7a319891dca9b9390eeb76f61573425029ece2eae7b70a83e" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9udWVsMDcvYWx4LXN5c3RlbV9lbmdpbmVlcmluZy1kZXZvcHMvdHJlZS9tYXN0ZXIvMHgwNi1yZWd1bGFyX2V4cHJlc3Npb25zIiwicmVxdWVzdF9pZCI6IkYxRjg6OTZDNjozODE1MTlDOjM4Q0M4OUU6NjRBNDIxMjYiLCJ2aXNpdG9yX2lkIjoiMjg4MjYzODYyODkyMDAyNzEyNyIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="c4925589093acd885a6dbf2c9a6a01bf3097368729a8d9ce27c735076cdcb2f4" data-turbo-transient="true" />
 
 
-    <meta name="hovercard-subject-tag" content="repository:102635035" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:375165638" data-turbo-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree" data-turbo-transient="true" />
@@ -135,16 +135,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Call of Duty: Dev_Ops. Contribute to Raid55/holberton-system_engineering-devops development by creating an account on GitHub.">
+      <meta name="description" content="A Shell Scripting saga. Contribute to nuel07/alx-system_engineering-devops development by creating an account on GitHub.">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
-    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/Raid55/holberton-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/884a63c0426ba1ef17fb128cd37935ef745debb5e91d553ed693cb55bf24391b/Raid55/holberton-system_engineering-devops" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="holberton-system_engineering-devops/0x06-regular_expressions/100-textme.rb at master · Raid55/holberton-system_engineering-devops" /><meta name="twitter:description" content="Call of Duty: Dev_Ops. Contribute to Raid55/holberton-system_engineering-devops development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/884a63c0426ba1ef17fb128cd37935ef745debb5e91d553ed693cb55bf24391b/Raid55/holberton-system_engineering-devops" /><meta property="og:image:alt" content="Call of Duty: Dev_Ops. Contribute to Raid55/holberton-system_engineering-devops development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="holberton-system_engineering-devops/0x06-regular_expressions/100-textme.rb at master · Raid55/holberton-system_engineering-devops" /><meta property="og:url" content="https://github.com/Raid55/holberton-system_engineering-devops" /><meta property="og:description" content="Call of Duty: Dev_Ops. Contribute to Raid55/holberton-system_engineering-devops development by creating an account on GitHub." />
+    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/nuel07/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/b4a1fa55d9e1d6dea3608bfbdf6562302cae632ef3479823d0375c1e790a4cbb/nuel07/alx-system_engineering-devops" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-system_engineering-devops/0x06-regular_expressions/100-textme.rb at master · nuel07/alx-system_engineering-devops" /><meta name="twitter:description" content="A Shell Scripting saga. Contribute to nuel07/alx-system_engineering-devops development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/b4a1fa55d9e1d6dea3608bfbdf6562302cae632ef3479823d0375c1e790a4cbb/nuel07/alx-system_engineering-devops" /><meta property="og:image:alt" content="A Shell Scripting saga. Contribute to nuel07/alx-system_engineering-devops development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-system_engineering-devops/0x06-regular_expressions/100-textme.rb at master · nuel07/alx-system_engineering-devops" /><meta property="og:url" content="https://github.com/nuel07/alx-system_engineering-devops" /><meta property="og:description" content="A Shell Scripting saga. Contribute to nuel07/alx-system_engineering-devops development by creating an account on GitHub." />
       
 
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/121699258/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjE2OTkyNTgsInMiOjExNDk2MTc4NjksImMiOjQxOTczNzU2NDYsInQiOjE2ODg0NzczNDZ9--c6ef64a97797d92419b9fdbadc9cc908e806b2e0464c6fa5ca3bcad9b5824608" data-refresh-url="/_alive" data-session-id="bb23ffce9b97e6684c1b19c10a71a9fb21ac217837fda3c22af083b66bc6ffca">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/121699258/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjE2OTkyNTgsInMiOjExNDk2MTc4NjksImMiOjIyNjMyNzkyMiwidCI6MTY4ODQ3ODAwNH0=--e3d866209252509e458a2f5bccb22bbc0b38d20828a9263f151b54a51a20f699" data-refresh-url="/_alive" data-session-id="bb23ffce9b97e6684c1b19c10a71a9fb21ac217837fda3c22af083b66bc6ffca">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-71e98f781d79.js">
 
 
@@ -168,9 +168,9 @@
       <meta name="turbo-cache-control" content="no-cache" data-turbo-transient>
     <meta data-hydrostats="publish">
 
-  <meta name="go-import" content="github.com/Raid55/holberton-system_engineering-devops git https://github.com/Raid55/holberton-system_engineering-devops.git">
+  <meta name="go-import" content="github.com/nuel07/alx-system_engineering-devops git https://github.com/nuel07/alx-system_engineering-devops.git">
 
-  <meta name="octolytics-dimension-user_id" content="23468320" /><meta name="octolytics-dimension-user_login" content="Raid55" /><meta name="octolytics-dimension-repository_id" content="102635035" /><meta name="octolytics-dimension-repository_nwo" content="Raid55/holberton-system_engineering-devops" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="102635035" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Raid55/holberton-system_engineering-devops" />
+  <meta name="octolytics-dimension-user_id" content="73999392" /><meta name="octolytics-dimension-user_login" content="nuel07" /><meta name="octolytics-dimension-repository_id" content="375165638" /><meta name="octolytics-dimension-repository_nwo" content="nuel07/alx-system_engineering-devops" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="375165638" /><meta name="octolytics-dimension-repository_network_root_nwo" content="nuel07/alx-system_engineering-devops" />
 
 
 
@@ -220,17 +220,17 @@
           <deferred-side-panel data-url="/_side-panels/global">
   <include-fragment data-target="deferred-side-panel.fragment">
       
-  <button aria-label="Open global navigation menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-c9bc97bd-c5c9-40c9-83e6-9f16636e3e1b" id="dialog-show-dialog-c9bc97bd-c5c9-40c9-83e6-9f16636e3e1b" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-bg-transparent p-0 color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-three-bars Button-visual">
+  <button aria-label="Open global navigation menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-e34462ad-6726-42f0-9856-b3ff8204ea85" id="dialog-show-dialog-e34462ad-6726-42f0-9856-b3ff8204ea85" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-bg-transparent p-0 color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-three-bars Button-visual">
     <path d="M1 2.75A.75.75 0 0 1 1.75 2h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 2.75Zm0 5A.75.75 0 0 1 1.75 7h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 7.75ZM1.75 12h12.5a.75.75 0 0 1 0 1.5H1.75a.75.75 0 0 1 0-1.5Z"></path>
 </svg>
 </button>  
 
 <div class="Overlay--hidden Overlay-backdrop--side Overlay-backdrop--placement-left" data-modal-dialog-overlay>
-  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-c9bc97bd-c5c9-40c9-83e6-9f16636e3e1b" aria-modal="true" aria-disabled="true" aria-describedby="dialog-c9bc97bd-c5c9-40c9-83e6-9f16636e3e1b-title dialog-c9bc97bd-c5c9-40c9-83e6-9f16636e3e1b-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
+  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-e34462ad-6726-42f0-9856-b3ff8204ea85" aria-modal="true" aria-disabled="true" aria-describedby="dialog-e34462ad-6726-42f0-9856-b3ff8204ea85-title dialog-e34462ad-6726-42f0-9856-b3ff8204ea85-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
     <div styles="flex-direction: row;" data-view-component="true" class="Overlay-header">
   <div class="Overlay-headerContentWrap">
     <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title sr-only" id="dialog-c9bc97bd-c5c9-40c9-83e6-9f16636e3e1b-title">
+      <h1 class="Overlay-title sr-only" id="dialog-e34462ad-6726-42f0-9856-b3ff8204ea85-title">
         Global navigation
       </h1>
             <div data-view-component="true" class="d-flex">
@@ -241,7 +241,7 @@
 </div></div>
     </div>
     <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="dialog-c9bc97bd-c5c9-40c9-83e6-9f16636e3e1b" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+      <button data-close-dialog-id="dialog-e34462ad-6726-42f0-9856-b3ff8204ea85" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg></button>
     </div>
@@ -255,7 +255,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g d" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/Raid55/holberton-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;target&quot;:&quot;HOME&quot;,&quot;originating_url&quot;:&quot;https://github.com/Raid55/holberton-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;user_id&quot;:121699258}}" hydro-click-hmac="9aa04510ed9cf2aee0aca52e2b8f7bd385e384eaab80c34c28c5915d06e25642" id="item-e118dfc2-a08c-481e-b543-98c7eabc8056" href="/dashboard" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g d" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/nuel07/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;target&quot;:&quot;HOME&quot;,&quot;originating_url&quot;:&quot;https://github.com/nuel07/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;user_id&quot;:121699258}}" hydro-click-hmac="5e785cfbe83723ae211be63b21762270db1fd3036d459b8b712f31f72d2ae7ca" id="item-351fffc8-0520-44cc-8adb-4620c014aa3a" href="/dashboard" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-home">
     <path d="M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z"></path>
@@ -273,7 +273,7 @@
           
 <li item_id="personal_info" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g i" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/Raid55/holberton-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;target&quot;:&quot;ISSUES&quot;,&quot;originating_url&quot;:&quot;https://github.com/Raid55/holberton-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;user_id&quot;:121699258}}" hydro-click-hmac="f6052a87d831685ba5c44c8a26c54c01f8e2d89e2229972ba610d95045e462f6" id="item-ac15c841-7692-408e-b13b-e20b568846d0" href="/issues" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g i" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/nuel07/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;target&quot;:&quot;ISSUES&quot;,&quot;originating_url&quot;:&quot;https://github.com/nuel07/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;user_id&quot;:121699258}}" hydro-click-hmac="7de75fe7a3872ca3adb68df23a821a695c2e76a535ddfa274c0c01e34b5a20fe" id="item-f1ea5785-a020-4d6a-8ad5-95d4d178c16e" href="/issues" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -291,7 +291,7 @@
           
 <li item_id="password" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g p" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/Raid55/holberton-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;target&quot;:&quot;PULL_REQUESTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/Raid55/holberton-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;user_id&quot;:121699258}}" hydro-click-hmac="8046288d6629868011411bc41f72abad63b66f3d2f6d71fd1419cba1c9d98985" id="item-14ec12b7-88a1-45fa-92d8-3ee72db00505" href="/pulls" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g p" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/nuel07/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;target&quot;:&quot;PULL_REQUESTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/nuel07/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;user_id&quot;:121699258}}" hydro-click-hmac="5045f90e5b27360bfa50a8801c63d62fbd2f3f7f0a2e42cfed4f2f4f3e70f36d" id="item-67c76535-4734-4384-afb6-cd03b4696d1b" href="/pulls" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -309,7 +309,7 @@
           
 <li item_id="billing" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/Raid55/holberton-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;target&quot;:&quot;DISCUSSIONS&quot;,&quot;originating_url&quot;:&quot;https://github.com/Raid55/holberton-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;user_id&quot;:121699258}}" hydro-click-hmac="1f89f35b412758fd7ab7f4c995bb4821e842ad76227ec1169e5c682776c5fd6a" id="item-191c5b5e-ebb2-469f-9de9-e0512e4426ca" href="/discussions" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/nuel07/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;target&quot;:&quot;DISCUSSIONS&quot;,&quot;originating_url&quot;:&quot;https://github.com/nuel07/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;user_id&quot;:121699258}}" hydro-click-hmac="9a35ff0ea9c219a13c66d2852fd7268e2b53a65bec1540d13bfc3afd9a475754" id="item-3a0ca9a6-e6ff-4855-9911-869cacf9a4e6" href="/discussions" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
     <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
@@ -343,7 +343,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/Raid55/holberton-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;target&quot;:&quot;EXPLORE&quot;,&quot;originating_url&quot;:&quot;https://github.com/Raid55/holberton-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;user_id&quot;:121699258}}" hydro-click-hmac="fd25a6bf65ac769eb8bbe6591a45aae71588bd739666d80bfe6ae27dfefa8ee9" id="item-3760013b-7676-4fdc-842b-1f0260bb12ca" href="/explore" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/nuel07/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;target&quot;:&quot;EXPLORE&quot;,&quot;originating_url&quot;:&quot;https://github.com/nuel07/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;user_id&quot;:121699258}}" hydro-click-hmac="82655fe0b25ee1ddd63d1840852a5b4c0cd093c653cc3a47bb10a201d0ac7c35" id="item-cbe18670-347e-4c30-b8df-1fb6a5319261" href="/explore" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-telescope">
     <path d="M14.184 1.143v-.001l1.422 2.464a1.75 1.75 0 0 1-.757 2.451L3.104 11.713a1.75 1.75 0 0 1-2.275-.702l-.447-.775a1.75 1.75 0 0 1 .53-2.32L11.682.573a1.748 1.748 0 0 1 2.502.57Zm-4.709 9.32h-.001l2.644 3.863a.75.75 0 1 1-1.238.848l-1.881-2.75v2.826a.75.75 0 0 1-1.5 0v-2.826l-1.881 2.75a.75.75 0 1 1-1.238-.848l2.049-2.992a.746.746 0 0 1 .293-.253l1.809-.87a.749.749 0 0 1 .944.252ZM9.436 3.92h-.001l-4.97 3.39.942 1.63 5.42-2.61Zm3.091-2.108h.001l-1.85 1.26 1.505 2.605 2.016-.97a.247.247 0 0 0 .13-.151.247.247 0 0 0-.022-.199l-1.422-2.464a.253.253 0 0 0-.161-.119.254.254 0 0 0-.197.038ZM1.756 9.157a.25.25 0 0 0-.075.33l.447.775a.25.25 0 0 0 .325.1l1.598-.769-.83-1.436-1.465 1Z"></path>
@@ -361,7 +361,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/Raid55/holberton-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;target&quot;:&quot;MARKETPLACE&quot;,&quot;originating_url&quot;:&quot;https://github.com/Raid55/holberton-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;user_id&quot;:121699258}}" hydro-click-hmac="ade26534e87a82143de718cddfa650713b8b33b8f7fb03799b0c5061de3a87f3" id="item-9aaf142a-d2f2-4944-b473-25aea92079b1" href="/marketplace" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/nuel07/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;target&quot;:&quot;MARKETPLACE&quot;,&quot;originating_url&quot;:&quot;https://github.com/nuel07/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb&quot;,&quot;user_id&quot;:121699258}}" hydro-click-hmac="63f8ba0578e8bc6d846f0a23393163e7660a25b0bb402b69d4ce985e0643bca0" id="item-842874a0-97b7-4c61-aef0-75e82b25d4a1" href="/marketplace" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gift">
     <path d="M2 2.75A2.75 2.75 0 0 1 4.75 0c.983 0 1.873.42 2.57 1.232.268.318.497.668.68 1.042.183-.375.411-.725.68-1.044C9.376.42 10.266 0 11.25 0a2.75 2.75 0 0 1 2.45 4h.55c.966 0 1.75.784 1.75 1.75v2c0 .698-.409 1.301-1 1.582v4.918A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V9.332C.409 9.05 0 8.448 0 7.75v-2C0 4.784.784 4 1.75 4h.55c-.192-.375-.3-.8-.3-1.25ZM7.25 9.5H2.5v4.75c0 .138.112.25.25.25h4.5Zm1.5 0v5h4.5a.25.25 0 0 0 .25-.25V9.5Zm0-4V8h5.5a.25.25 0 0 0 .25-.25v-2a.25.25 0 0 0-.25-.25Zm-7 0a.25.25 0 0 0-.25.25v2c0 .138.112.25.25.25h5.5V5.5h-5.5Zm3-4a1.25 1.25 0 0 0 0 2.5h2.309c-.233-.818-.542-1.401-.878-1.793-.43-.502-.915-.707-1.431-.707ZM8.941 4h2.309a1.25 1.25 0 0 0 0-2.5c-.516 0-1 .205-1.43.707-.337.392-.646.975-.879 1.793Z"></path>
@@ -379,7 +379,7 @@
           
 <li item_id="feedback" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-3b89be22-0881-45a4-a40f-85884cb60263" href="https://gh.io/navigation-update" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-2cbcfbf1-cafa-415d-8c7f-8e3f93bf593e" href="https://gh.io/navigation-update" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
     <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
@@ -430,15 +430,15 @@
 
           <div class="AppHeader-context" >
   <div class="AppHeader-context-compact">
-        <button aria-expanded="false" aria-haspopup="dialog" aria-label="Page context: Raid55 / holberton-system_engineering-devops" id="dialog-show-context-region-dialog" data-show-dialog-id="context-region-dialog" type="button" data-view-component="true" class="AppHeader-context-compact-trigger Truncate Button--secondary Button--medium Button box-shadow-none">    <span class="Button-content">
+        <button aria-expanded="false" aria-haspopup="dialog" aria-label="Page context: nuel07 / alx-system_engineering-devops" id="dialog-show-context-region-dialog" data-show-dialog-id="context-region-dialog" type="button" data-view-component="true" class="AppHeader-context-compact-trigger Truncate Button--secondary Button--medium Button box-shadow-none">    <span class="Button-content">
       <span class="Button-label"><span class="AppHeader-context-compact-lead">
-                <span class="AppHeader-context-compact-parentItem">Raid55</span>
+                <span class="AppHeader-context-compact-parentItem">nuel07</span>
                 <span class="AppHeader-context-compact-separator">&nbsp;/</span>
 
             </span>
 
             <strong class="AppHeader-context-compact-mainItem d-flex flex-items-center Truncate" >
-  <span class="Truncate-text ">holberton-system_engineering-devops</span>
+  <span class="Truncate-text ">alx-system_engineering-devops</span>
 
 </strong></span>
     </span>
@@ -462,17 +462,17 @@
 </div>
       <div data-view-component="true" class="Overlay-body">          <ul role="list" class="list-style-none" >
     <li>
-      <a data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_crumb&quot;,&quot;label&quot;:&quot;Raid55&quot;,&quot;screen_size&quot;:&quot;compact&quot;}" href="/Raid55" data-view-component="true" class="Link--primary Truncate d-flex flex-items-center py-1">
+      <a data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_crumb&quot;,&quot;label&quot;:&quot;nuel07&quot;,&quot;screen_size&quot;:&quot;compact&quot;}" href="/nuel07" data-view-component="true" class="Link--primary Truncate d-flex flex-items-center py-1">
         <span class="AppHeader-context-item-label Truncate-text ">
-          Raid55
+          nuel07
         </span>
 
 </a>
     </li>
     <li>
-      <a data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_crumb&quot;,&quot;label&quot;:&quot;holberton-system_engineering-devops&quot;,&quot;screen_size&quot;:&quot;compact&quot;}" href="/Raid55/holberton-system_engineering-devops" data-view-component="true" class="Link--primary Truncate d-flex flex-items-center py-1">
+      <a data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_crumb&quot;,&quot;label&quot;:&quot;alx-system_engineering-devops&quot;,&quot;screen_size&quot;:&quot;compact&quot;}" href="/nuel07/alx-system_engineering-devops" data-view-component="true" class="Link--primary Truncate d-flex flex-items-center py-1">
         <span class="AppHeader-context-item-label Truncate-text ">
-          holberton-system_engineering-devops
+          alx-system_engineering-devops
         </span>
 
 </a>
@@ -488,18 +488,18 @@
     <nav role="navigation" aria-label="Page context">
       <ul role="list" class="list-style-none" >
     <li>
-      <a data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_crumb&quot;,&quot;label&quot;:&quot;Raid55&quot;,&quot;screen_size&quot;:&quot;full&quot;}" data-hovercard-type="user" data-hovercard-url="/users/Raid55/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Raid55" data-view-component="true" class="AppHeader-context-item">
+      <a data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_crumb&quot;,&quot;label&quot;:&quot;nuel07&quot;,&quot;screen_size&quot;:&quot;full&quot;}" data-hovercard-type="user" data-hovercard-url="/users/nuel07/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/nuel07" data-view-component="true" class="AppHeader-context-item">
         <span class="AppHeader-context-item-label  ">
-          Raid55
+          nuel07
         </span>
 
 </a>
         <span class="AppHeader-context-item-separator">/</span>
     </li>
     <li>
-      <a data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_crumb&quot;,&quot;label&quot;:&quot;holberton-system_engineering-devops&quot;,&quot;screen_size&quot;:&quot;full&quot;}" href="/Raid55/holberton-system_engineering-devops" data-view-component="true" class="AppHeader-context-item">
+      <a data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_crumb&quot;,&quot;label&quot;:&quot;alx-system_engineering-devops&quot;,&quot;screen_size&quot;:&quot;full&quot;}" href="/nuel07/alx-system_engineering-devops" data-view-component="true" class="AppHeader-context-item">
         <span class="AppHeader-context-item-label  ">
-          holberton-system_engineering-devops
+          alx-system_engineering-devops
         </span>
 
 </a>
@@ -516,7 +516,7 @@
               
 
 
-<qbsearch-input class="search-input" data-scope="repo:Raid55/holberton-system_engineering-devops" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="phBuRJ1oSqtd4wY6VdgR_l7VaRucHerNfA1SYLogpzzZLpgvC5WydE7zP_7ki74vY3jKQHmqQAe9pywLkpKWFA" data-max-custom-scopes="10" data-header-redesign-enabled="true" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="Raid55/holberton-system_engineering-devops" data-current-org="" data-current-owner="Raid55" data-logged-in="true">
+<qbsearch-input class="search-input" data-scope="repo:nuel07/alx-system_engineering-devops" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="86UHKUTyU41Ef1z7jf-8aV5JEnXw3UEyPUhPOwRqqwOMm_FC0g-rUldvZT88rBO4Y-SxLhVq6_j84jFQLNiaKw" data-max-custom-scopes="10" data-header-redesign-enabled="true" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="nuel07/alx-system_engineering-devops" data-current-org="" data-current-owner="nuel07" data-logged-in="true">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center height-auto color-bg-transparent border-0 color-fg-subtle mx-0"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -565,7 +565,7 @@
 </svg>
       </button>
 
-      <tool-tip id="tooltip-1acfbd7c-43ee-42e5-9d19-14c9299d2115" for="AppHeader-commandPalette-button" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Command palette</tool-tip>
+      <tool-tip id="tooltip-7df5d4b9-8e96-4f83-b86c-14b47a7287fd" for="AppHeader-commandPalette-button" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Command palette</tool-tip>
   </div>
 </div>
 
@@ -745,7 +745,7 @@
     </div>
   </div>
 </div>
-      <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mhXCqeZ-yUJpY-Z5qc1vtA9G4KnISVM29wb5yc7zzB6JJVGv3w1v4Q7_PFy7zKYstP23ucqf0AsLt6GtaRb-sg" />
+      <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QIjeLax_F5bkVWWYF_AQUY2_1dmT-fe07hDSUCvgEINTuE0rlQyxNYPJv70F8dnJNgSCyZEvdIkSoYo0jAUiLw" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -780,7 +780,7 @@
       <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="-44HWpRKCMjvDtmVwNHrHc8E1pdn7CZXgrT1FZQrTLZv9y1qXw3fGNTJoxOCHjVbK19FoasmbYwJ3WAkFX1zjQ" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="-f75a3jshgtAGiO8mKzNAqejXrjhw-rNWoCMOvTsCFpth9Nbs6tR23vdWTraYxNEQ_jNji0JoRbR6RkLdbo3YQ" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -798,7 +798,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" value="BbW52_tcy6gRoqpzo3nzrwprFAjZqam_SRVjnWMVv1MDbPW6cp1aEP27PBnLGki26jl9Yt05ZJUIWIm6m8Y_Nw" data-csrf="true" />
+              <input type="hidden" value="FSL8C_KVnMZiC4XVGpuieMnKi5tmbS7GhfzLiPgq5Z8T-7Bqe1QNfo4SE79y-BlhKZji8WL94-zEsSGvAPll-w" data-csrf="true" />
             </auto-check>
           </div>
 
@@ -834,7 +834,7 @@
 </modal-dialog></div>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" value="ILixecLMzfRnVWvQ9b5rwHnw7yaol9pIVQ-_bx4sfyW4VEOPkRm1mDCcg8wYcTlzxHrfd0Fcc2KRovJs2R74_Q" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+</qbsearch-input><input type="hidden" value="LFNCInibVYHNQofEQYkY95Xfqd4qmLJgCGgJ3LKifQW0v7DUK04t7ZqLb9isRkpEKFWZj8NTG0rMxUTfdZD63Q" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
 
           </div>
 
@@ -851,7 +851,7 @@
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg></span>
     </span>
-</button>  <tool-tip id="tooltip-07e248a5-1e97-4f07-b67e-c9952c9f2ce7" for="global-create-menu-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Create new...</tool-tip>
+</button>  <tool-tip id="tooltip-babd2cc2-4b6c-4aa1-af26-04aaa1ca643f" for="global-create-menu-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Create new...</tool-tip>
 </div>
 
 <anchored-position id="global-create-menu-overlay" anchor="global-create-menu-button" align="end" side="outside-bottom" anchor-offset="normal" popover="auto" aria-label="Menu" data-view-component="true">
@@ -862,7 +862,7 @@
   <ul aria-labelledby="global-create-menu-button" id="global-create-menu-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new repository&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/new" tabindex="-1" id="item-4a7e9048-8cfb-45b1-a769-0fd161bd26aa" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/new" tabindex="-1" id="item-82335950-e110-4e22-bb79-fb0bfb7f9c1a" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo">
     <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
@@ -878,7 +878,7 @@
 </li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;import repository&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/new/import" tabindex="-1" id="item-1ab83d32-c3e0-4b30-adcf-6b0c6f193cb7" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/new/import" tabindex="-1" id="item-48e76e8d-7241-4dde-a7b6-6bbcf74de808" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-push">
     <path d="M1 2.5A2.5 2.5 0 0 1 3.5 0h8.75a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0V1.5h-8a1 1 0 0 0-1 1v6.708A2.493 2.493 0 0 1 3.5 9h3.25a.75.75 0 0 1 0 1.5H3.5a1 1 0 0 0 0 2h5.75a.75.75 0 0 1 0 1.5H3.5A2.5 2.5 0 0 1 1 11.5Zm13.23 7.79h-.001l-1.224-1.224v6.184a.75.75 0 0 1-1.5 0V9.066L10.28 10.29a.75.75 0 0 1-1.06-1.061l2.505-2.504a.75.75 0 0 1 1.06 0L15.29 9.23a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018Z"></path>
@@ -895,7 +895,7 @@
       <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new codespace&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/codespaces/new" tabindex="-1" id="item-ad312f64-d5f4-4ecf-9425-cd06f29cff8a" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/codespaces/new" tabindex="-1" id="item-73e56335-18f9-4a31-b87c-d3b7c80f3af5" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-codespaces">
     <path d="M0 11.25c0-.966.784-1.75 1.75-1.75h12.5c.966 0 1.75.784 1.75 1.75v3A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm2-9.5C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v5a1.75 1.75 0 0 1-1.75 1.75h-8.5A1.75 1.75 0 0 1 2 6.75Zm1.75-.25a.25.25 0 0 0-.25.25v5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5a.25.25 0 0 0-.25-.25Zm-2 9.5a.25.25 0 0 0-.25.25v3c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-3a.25.25 0 0 0-.25-.25Z"></path><path d="M7 12.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
@@ -911,7 +911,7 @@
 </li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new gist&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="https://gist.github.com/" tabindex="-1" id="item-d831ded6-67c2-4239-9059-0e82f50ce683" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="https://gist.github.com/" tabindex="-1" id="item-e3e071e7-f876-4f3a-ad74-866171525abd" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -928,7 +928,7 @@
       <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new organization&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/account/organizations/new" tabindex="-1" id="item-068ffd8c-c2d4-4d24-8a5c-aaacfc94f567" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/account/organizations/new" tabindex="-1" id="item-5b003d3f-94bf-4827-ab2f-53f5d187492b" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization">
     <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
@@ -949,23 +949,23 @@
 </action-menu>
 
           <div data-view-component="true" class="Button-withTooltip">
-  <a href="/issues" id="icon-button-973f630d-e2d7-4414-8b5c-0eecf801f409" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened Button-visual">
+  <a href="/issues" id="icon-button-4f709222-413d-4a63-a7ba-339e6199bdc0" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened Button-visual">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
 </svg>
-</a>  <tool-tip id="tooltip-f80d7118-d430-499a-8132-93004e46b261" for="icon-button-973f630d-e2d7-4414-8b5c-0eecf801f409" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Issues</tool-tip>
+</a>  <tool-tip id="tooltip-119d288f-d74a-4f43-a257-03c4673c3531" for="icon-button-4f709222-413d-4a63-a7ba-339e6199bdc0" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Issues</tool-tip>
 </div>
           <div data-view-component="true" class="Button-withTooltip">
-  <a href="/pulls" id="icon-button-fae75455-3606-4922-9d3b-b3caac2aac87" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request Button-visual">
+  <a href="/pulls" id="icon-button-3a5ee2f3-99fc-4f9a-b481-55781f670073" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request Button-visual">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
 </svg>
-</a>  <tool-tip id="tooltip-7d4f7421-e8a2-488c-9b60-2c7ae4a09037" for="icon-button-fae75455-3606-4922-9d3b-b3caac2aac87" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Pull requests</tool-tip>
+</a>  <tool-tip id="tooltip-b1c826e1-7b22-424d-8f73-96b797d7297a" for="icon-button-3a5ee2f3-99fc-4f9a-b481-55781f670073" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Pull requests</tool-tip>
 </div>
         </div>
 
         <div class="mr-0">
           
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIxNjk5MjU4IiwidCI6MTY4ODQ3NzM0Nn0=--116644b65928a8c21cea96c428e3dbfc4faa894d2c9670fda41020622951c363" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-header-redesign-enabled="true" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIxNjk5MjU4IiwidCI6MTY4ODQ3ODAwNH0=--ed3d201f425ad378dfcad4e5beca14cd7111d6bde565f158ccf23e0aefedc668" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-header-redesign-enabled="true" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="AppHeader-button"
 
@@ -988,27 +988,27 @@
 </svg>
   </a>
 
-    <tool-tip data-target="notification-indicator.tooltip" id="tooltip-5483addd-28e3-428d-8540-019086f46394" for="AppHeader-notifications-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Notifications</tool-tip>
+    <tool-tip data-target="notification-indicator.tooltip" id="tooltip-aa41ae74-b35a-4d8f-b364-e0a71a8313d5" for="AppHeader-notifications-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Notifications</tool-tip>
 </notification-indicator>
         </div>
 
         
 
         <div class="AppHeader-user">
-          <deferred-side-panel data-url="/_side-panels/user?memex_enabled=true&amp;repository=holberton-system_engineering-devops&amp;user=OdochHerbert&amp;user_can_create_organizations=true&amp;user_id=121699258">
+          <deferred-side-panel data-url="/_side-panels/user?memex_enabled=true&amp;repository=alx-system_engineering-devops&amp;user=OdochHerbert&amp;user_can_create_organizations=true&amp;user_id=121699258">
   <include-fragment data-target="deferred-side-panel.fragment">
       <user-drawer-side-panel>
-      <button aria-label="Open user account menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-e02232b3-e7e5-4165-8437-9b71f08f0a0a" id="dialog-show-dialog-e02232b3-e7e5-4165-8437-9b71f08f0a0a" type="button" data-view-component="true" class="AppHeader-logo Button--invisible Button--medium Button Button--invisible-noVisuals color-bg-transparent p-0">    <span class="Button-content">
+      <button aria-label="Open user account menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-81dd56d9-7ce0-4d01-afbd-0c99085ae4d3" id="dialog-show-dialog-81dd56d9-7ce0-4d01-afbd-0c99085ae4d3" type="button" data-view-component="true" class="AppHeader-logo Button--invisible Button--medium Button Button--invisible-noVisuals color-bg-transparent p-0">    <span class="Button-content">
       <span class="Button-label"><img src="https://avatars.githubusercontent.com/u/121699258?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle" /></span>
     </span>
 </button>  
 
 <div class="Overlay--hidden Overlay-backdrop--side Overlay-backdrop--placement-right" data-modal-dialog-overlay>
-  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-e02232b3-e7e5-4165-8437-9b71f08f0a0a" aria-modal="true" aria-disabled="true" aria-describedby="dialog-e02232b3-e7e5-4165-8437-9b71f08f0a0a-title dialog-e02232b3-e7e5-4165-8437-9b71f08f0a0a-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
+  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-81dd56d9-7ce0-4d01-afbd-0c99085ae4d3" aria-modal="true" aria-disabled="true" aria-describedby="dialog-81dd56d9-7ce0-4d01-afbd-0c99085ae4d3-title dialog-81dd56d9-7ce0-4d01-afbd-0c99085ae4d3-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
     <div styles="flex-direction: row;" data-view-component="true" class="Overlay-header">
   <div class="Overlay-headerContentWrap">
     <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title sr-only" id="dialog-e02232b3-e7e5-4165-8437-9b71f08f0a0a-title">
+      <h1 class="Overlay-title sr-only" id="dialog-81dd56d9-7ce0-4d01-afbd-0c99085ae4d3-title">
         Account menu
       </h1>
             <div data-view-component="true" class="d-flex">
@@ -1024,7 +1024,7 @@
 </div>
     </div>
     <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="dialog-e02232b3-e7e5-4165-8437-9b71f08f0a0a" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+      <button data-close-dialog-id="dialog-81dd56d9-7ce0-4d01-afbd-0c99085ae4d3" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg></button>
     </div>
@@ -1038,7 +1038,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-209c1769-6eec-4d51-8ae2-676906f64dae" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-ebed0c6e-153e-49e8-98af-f2536afc79c7" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1065,7 +1065,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-9c2f6356-425a-4c6c-8693-d809495efd7d" href="https://github.com/OdochHerbert" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-0e869718-055a-4487-9448-4ad26a8496af" href="https://github.com/OdochHerbert" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-person">
     <path d="M10.561 8.073a6.005 6.005 0 0 1 3.432 5.142.75.75 0 1 1-1.498.07 4.5 4.5 0 0 0-8.99 0 .75.75 0 0 1-1.498-.07 6.004 6.004 0 0 1 3.431-5.142 3.999 3.999 0 1 1 5.123 0ZM10.5 5a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path>
@@ -1085,7 +1085,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-eec92a72-64be-45e8-9642-2efbc743c93a" href="/OdochHerbert?tab=repositories" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-11bf5395-5a0a-4ee3-a4f0-8fadd307f566" href="/OdochHerbert?tab=repositories" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo">
     <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
@@ -1103,7 +1103,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-6f9f3d86-3794-4355-b31c-709eab5fa163" href="/OdochHerbert?tab=projects" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-bfd6a8dc-01b3-4427-8eaa-587287bf8c98" href="/OdochHerbert?tab=projects" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project">
     <path d="M1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0ZM1.5 1.75v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25ZM11.75 3a.75.75 0 0 1 .75.75v7.5a.75.75 0 0 1-1.5 0v-7.5a.75.75 0 0 1 .75-.75Zm-8.25.75a.75.75 0 0 1 1.5 0v5.5a.75.75 0 0 1-1.5 0ZM8 3a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0v-3.5A.75.75 0 0 1 8 3Z"></path>
@@ -1121,7 +1121,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-0e6b5dc1-f6ba-4596-86a4-bb08556f2724" href="/codespaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-800796de-c650-47d2-8ff8-2b3139f2933e" href="/codespaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-codespaces">
     <path d="M0 11.25c0-.966.784-1.75 1.75-1.75h12.5c.966 0 1.75.784 1.75 1.75v3A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm2-9.5C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v5a1.75 1.75 0 0 1-1.75 1.75h-8.5A1.75 1.75 0 0 1 2 6.75Zm1.75-.25a.25.25 0 0 0-.25.25v5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5a.25.25 0 0 0-.25-.25Zm-2 9.5a.25.25 0 0 0-.25.25v3c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-3a.25.25 0 0 0-.25-.25Z"></path><path d="M7 12.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
@@ -1139,7 +1139,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-d95dc6ba-9438-4fc9-9a57-eb8e54276bc0" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-683ae9e2-115a-4fdf-aa1d-0db335e11157" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1164,7 +1164,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-9e8e7fa5-4e7b-4fda-bbb6-7cf653379b9d" href="/OdochHerbert?tab=stars" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-aadb7f34-7622-4894-9ddd-a777657686bf" href="/OdochHerbert?tab=stars" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
@@ -1182,7 +1182,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-3fe597f3-4d03-43db-9dc7-17eb164a98f2" href="/sponsors/accounts" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-952837d8-7cdd-46fe-9b1b-cfdc984dde67" href="/sponsors/accounts" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-heart">
     <path d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"></path>
@@ -1200,7 +1200,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-110c7664-2d81-491c-841d-1b7234f60f12" href="https://gist.github.com/mine" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-0a3de5f7-89a0-436e-afd6-1f019457f2aa" href="https://gist.github.com/mine" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code-square">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25Zm7.47 3.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L10.69 8 9.22 6.53a.75.75 0 0 1 0-1.06ZM6.78 6.53 5.31 8l1.47 1.47a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1220,7 +1220,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-db623dca-daa6-465b-9ceb-9832626b0ee1" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-eda4852b-7e00-45cf-9c85-56a332a5e6b6" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1245,7 +1245,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-a1b2474c-a475-4d2b-a63d-3fcf375b141f" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-ae61d1c0-df24-4d72-adc9-5c076e6325b2" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1270,7 +1270,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-494ae6ca-92aa-4f1e-9536-fafaad31b05f" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-91a27995-bcb3-4f9e-ac1c-ff2064a72aa1" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1295,7 +1295,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-c815c2f7-e9f6-46e0-96ff-d0f0cdcdb9cb" href="/settings/profile" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-a59d45a7-6118-4cd4-9bcc-d2a84f2f9937" href="/settings/profile" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gear">
     <path d="M8 0a8.2 8.2 0 0 1 .701.031C9.444.095 9.99.645 10.16 1.29l.288 1.107c.018.066.079.158.212.224.231.114.454.243.668.386.123.082.233.09.299.071l1.103-.303c.644-.176 1.392.021 1.82.63.27.385.506.792.704 1.218.315.675.111 1.422-.364 1.891l-.814.806c-.049.048-.098.147-.088.294.016.257.016.515 0 .772-.01.147.038.246.088.294l.814.806c.475.469.679 1.216.364 1.891a7.977 7.977 0 0 1-.704 1.217c-.428.61-1.176.807-1.82.63l-1.102-.302c-.067-.019-.177-.011-.3.071a5.909 5.909 0 0 1-.668.386c-.133.066-.194.158-.211.224l-.29 1.106c-.168.646-.715 1.196-1.458 1.26a8.006 8.006 0 0 1-1.402 0c-.743-.064-1.289-.614-1.458-1.26l-.289-1.106c-.018-.066-.079-.158-.212-.224a5.738 5.738 0 0 1-.668-.386c-.123-.082-.233-.09-.299-.071l-1.103.303c-.644.176-1.392-.021-1.82-.63a8.12 8.12 0 0 1-.704-1.218c-.315-.675-.111-1.422.363-1.891l.815-.806c.05-.048.098-.147.088-.294a6.214 6.214 0 0 1 0-.772c.01-.147-.038-.246-.088-.294l-.815-.806C.635 6.045.431 5.298.746 4.623a7.92 7.92 0 0 1 .704-1.217c.428-.61 1.176-.807 1.82-.63l1.102.302c.067.019.177.011.3-.071.214-.143.437-.272.668-.386.133-.066.194-.158.211-.224l.29-1.106C6.009.645 6.556.095 7.299.03 7.53.01 7.764 0 8 0Zm-.571 1.525c-.036.003-.108.036-.137.146l-.289 1.105c-.147.561-.549.967-.998 1.189-.173.086-.34.183-.5.29-.417.278-.97.423-1.529.27l-1.103-.303c-.109-.03-.175.016-.195.045-.22.312-.412.644-.573.99-.014.031-.021.11.059.19l.815.806c.411.406.562.957.53 1.456a4.709 4.709 0 0 0 0 .582c.032.499-.119 1.05-.53 1.456l-.815.806c-.081.08-.073.159-.059.19.162.346.353.677.573.989.02.03.085.076.195.046l1.102-.303c.56-.153 1.113-.008 1.53.27.161.107.328.204.501.29.447.222.85.629.997 1.189l.289 1.105c.029.109.101.143.137.146a6.6 6.6 0 0 0 1.142 0c.036-.003.108-.036.137-.146l.289-1.105c.147-.561.549-.967.998-1.189.173-.086.34-.183.5-.29.417-.278.97-.423 1.529-.27l1.103.303c.109.029.175-.016.195-.045.22-.313.411-.644.573-.99.014-.031.021-.11-.059-.19l-.815-.806c-.411-.406-.562-.957-.53-1.456a4.709 4.709 0 0 0 0-.582c-.032-.499.119-1.05.53-1.456l.815-.806c.081-.08.073-.159.059-.19a6.464 6.464 0 0 0-.573-.989c-.02-.03-.085-.076-.195-.046l-1.102.303c-.56.153-1.113.008-1.53-.27a4.44 4.44 0 0 0-.501-.29c-.447-.222-.85-.629-.997-1.189l-.289-1.105c-.029-.11-.101-.143-.137-.146a6.6 6.6 0 0 0-1.142 0ZM11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0ZM9.5 8a1.5 1.5 0 1 0-3.001.001A1.5 1.5 0 0 0 9.5 8Z"></path>
@@ -1315,7 +1315,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-536fa517-b634-4de0-8696-96a44067a1f9" href="https://docs.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-f4f5f916-1116-4031-9d4a-e35bed98c1b1" href="https://docs.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book">
     <path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path>
@@ -1333,7 +1333,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-42a351a7-78e8-4bcd-abb9-82f138ea26ed" href="https://support.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-b2f7f974-07ab-4781-8092-e198cde3cd98" href="https://support.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
     <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
@@ -1353,7 +1353,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-ebae9163-bf76-4ab4-8bb6-38408cf2862b" href="/logout" data-view-component="true" class="ActionListContent">
+    <a id="item-842934fd-579f-4719-929f-090f496d9903" href="/logout" data-view-component="true" class="ActionListContent">
       
         <span data-view-component="true" class="ActionListItem-label">
           Sign out
@@ -1383,7 +1383,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/Raid55/holberton-system_engineering-devops" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Raid55/holberton-system_engineering-devops" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="code-tab" href="/nuel07/alx-system_engineering-devops" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /nuel07/alx-system_engineering-devops" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1395,7 +1395,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/Raid55/holberton-system_engineering-devops/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /Raid55/holberton-system_engineering-devops/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/nuel07/alx-system_engineering-devops/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /nuel07/alx-system_engineering-devops/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1407,7 +1407,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/Raid55/holberton-system_engineering-devops/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /Raid55/holberton-system_engineering-devops/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/nuel07/alx-system_engineering-devops/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /nuel07/alx-system_engineering-devops/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1419,7 +1419,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/Raid55/holberton-system_engineering-devops/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /Raid55/holberton-system_engineering-devops/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/nuel07/alx-system_engineering-devops/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /nuel07/alx-system_engineering-devops/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1431,7 +1431,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/Raid55/holberton-system_engineering-devops/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /Raid55/holberton-system_engineering-devops/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/nuel07/alx-system_engineering-devops/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /nuel07/alx-system_engineering-devops/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1443,18 +1443,18 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/Raid55/holberton-system_engineering-devops/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /Raid55/holberton-system_engineering-devops/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/nuel07/alx-system_engineering-devops/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /nuel07/alx-system_engineering-devops/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/Raid55/holberton-system_engineering-devops/security/overall-count" accept="text/fragment+html"></include-fragment>
+          <include-fragment src="/nuel07/alx-system_engineering-devops/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/Raid55/holberton-system_engineering-devops/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Raid55/holberton-system_engineering-devops/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/nuel07/alx-system_engineering-devops/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /nuel07/alx-system_engineering-devops/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1476,31 +1476,31 @@
 </summary>
     <details-menu role="menu" data-view-component="true" class="dropdown-menu dropdown-menu-sw">          <ul>
               <li data-menu-item="i0code-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Raid55/holberton-system_engineering-devops" href="/Raid55/holberton-system_engineering-devops">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /nuel07/alx-system_engineering-devops" href="/nuel07/alx-system_engineering-devops">
                   Code
 </a>              </li>
               <li data-menu-item="i1issues-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /Raid55/holberton-system_engineering-devops/issues" href="/Raid55/holberton-system_engineering-devops/issues">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /nuel07/alx-system_engineering-devops/issues" href="/nuel07/alx-system_engineering-devops/issues">
                   Issues
 </a>              </li>
               <li data-menu-item="i2pull-requests-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /Raid55/holberton-system_engineering-devops/pulls" href="/Raid55/holberton-system_engineering-devops/pulls">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /nuel07/alx-system_engineering-devops/pulls" href="/nuel07/alx-system_engineering-devops/pulls">
                   Pull requests
 </a>              </li>
               <li data-menu-item="i3actions-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /Raid55/holberton-system_engineering-devops/actions" href="/Raid55/holberton-system_engineering-devops/actions">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /nuel07/alx-system_engineering-devops/actions" href="/nuel07/alx-system_engineering-devops/actions">
                   Actions
 </a>              </li>
               <li data-menu-item="i4projects-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /Raid55/holberton-system_engineering-devops/projects" href="/Raid55/holberton-system_engineering-devops/projects">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /nuel07/alx-system_engineering-devops/projects" href="/nuel07/alx-system_engineering-devops/projects">
                   Projects
 </a>              </li>
               <li data-menu-item="i5security-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /Raid55/holberton-system_engineering-devops/security" href="/Raid55/holberton-system_engineering-devops/security">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /nuel07/alx-system_engineering-devops/security" href="/nuel07/alx-system_engineering-devops/security">
                   Security
 </a>              </li>
               <li data-menu-item="i6insights-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Raid55/holberton-system_engineering-devops/pulse" href="/Raid55/holberton-system_engineering-devops/pulse">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /nuel07/alx-system_engineering-devops/pulse" href="/nuel07/alx-system_engineering-devops/pulse">
                   Insights
 </a>              </li>
           </ul>
@@ -1567,7 +1567,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIxNjk5MjU4IiwidCI6MTY4ODQ3NzM0Nn0=--116644b65928a8c21cea96c428e3dbfc4faa894d2c9670fda41020622951c363" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIxNjk5MjU4IiwidCI6MTY4ODQ3ODAwNH0=--ed3d201f425ad378dfcad4e5beca14cd7111d6bde565f158ccf23e0aefedc668" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -1584,7 +1584,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/Raid55/holberton-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb
+      return-to=/nuel07/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb
       user-id="121699258"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1688,23 +1688,23 @@
         <command-palette-scope >
           <div data-target="command-palette-scope.placeholder" hidden class="color-fg-subtle">/&nbsp;&nbsp;<span class="text-semibold color-fg-default">...</span>&nbsp;&nbsp;/&nbsp;&nbsp;</div>
               <command-palette-token
-                data-text="Raid55"
-                data-id="MDQ6VXNlcjIzNDY4MzIw"
+                data-text="nuel07"
+                data-id="MDQ6VXNlcjczOTk5Mzky"
                 data-type="owner"
-                data-value="Raid55"
+                data-value="nuel07"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >Raid55<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >nuel07<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
               <command-palette-token
-                data-text="holberton-system_engineering-devops"
-                data-id="MDEwOlJlcG9zaXRvcnkxMDI2MzUwMzU="
+                data-text="alx-system_engineering-devops"
+                data-id="MDEwOlJlcG9zaXRvcnkzNzUxNjU2Mzg="
                 data-type="repository"
-                data-value="holberton-system_engineering-devops"
+                data-value="alx-system_engineering-devops"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >holberton-system_...<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >alx-system_engine...<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
         </command-palette-scope>
         <div class="command-palette-input-group flex-1 form-control border-0 box-shadow-none" style="z-index: 0">
           <div class="command-palette-typeahead position-absolute d-flex flex-items-center Truncate">
@@ -1741,12 +1741,12 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-0c0de02b-0a39-4370-8918-ab65a2a4ea96" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-1e34652a-b8c8-4759-bf12-bd77675d16c6" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
       <command-palette-page-stack
-        data-default-scope-id="MDEwOlJlcG9zaXRvcnkxMDI2MzUwMzU="
+        data-default-scope-id="MDEwOlJlcG9zaXRvcnkzNzUxNjU2Mzg="
         data-default-scope-type="Repository"
         data-action="command-palette-page-octicons-cached:command-palette-page-stack#cacheOcticons"
       >
@@ -2174,16 +2174,16 @@
             </command-palette-item-group>
 
             <command-palette-page
-              data-page-title="Raid55"
-              data-scope-id="MDQ6VXNlcjIzNDY4MzIw"
+              data-page-title="nuel07"
+              data-scope-id="MDQ6VXNlcjczOTk5Mzky"
               data-scope-type="owner"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
             >
             </command-palette-page>
             <command-palette-page
-              data-page-title="holberton-system_engineering-devops"
-              data-scope-id="MDEwOlJlcG9zaXRvcnkxMDI2MzUwMzU="
+              data-page-title="alx-system_engineering-devops"
+              data-scope-id="MDEwOlJlcG9zaXRvcnkzNzUxNjU2Mzg="
               data-scope-type="repository"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
@@ -2194,14 +2194,14 @@
         <command-palette-page data-is-root>
         </command-palette-page>
           <command-palette-page
-            data-page-title="Raid55"
-            data-scope-id="MDQ6VXNlcjIzNDY4MzIw"
+            data-page-title="nuel07"
+            data-scope-id="MDQ6VXNlcjczOTk5Mzky"
             data-scope-type="owner"
           >
           </command-palette-page>
           <command-palette-page
-            data-page-title="holberton-system_engineering-devops"
-            data-scope-id="MDEwOlJlcG9zaXRvcnkxMDI2MzUwMzU="
+            data-page-title="alx-system_engineering-devops"
+            data-scope-id="MDEwOlJlcG9zaXRvcnkzNzUxNjU2Mzg="
             data-scope-type="repository"
           >
           </command-palette-page>
@@ -2526,7 +2526,7 @@
     <div id="repo-content-pjax-container" class="repository-content " >
       <a href="https://github.dev/" class="d-none js-github-dev-shortcut" data-hotkey=".">Open in github.dev</a>
   <a href="https://github.dev/" class="d-none js-github-dev-new-tab-shortcut" data-hotkey="Shift+.,Shift+&gt;,&gt;" target="_blank">Open in a new github.dev tab</a>
-    <a class="d-none" data-hotkey="," target="_blank" href="/codespaces/new/Raid55/holberton-system_engineering-devops/tree/master?resume=1">Open in codespace</a>
+    <a class="d-none" data-hotkey="," target="_blank" href="/codespaces/new/nuel07/alx-system_engineering-devops/tree/master?resume=1">Open in codespace</a>
 
 
 
@@ -2540,14 +2540,14 @@
 
 <react-app
   app-name="react-code-view"
-  initial-path="/Raid55/holberton-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb"
+  initial-path="/nuel07/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb"
   style="min-height: calc(100vh - 62px)"
   data-ssr="false"
   data-lazy="false"
   data-alternate="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":true,"fileTree":{"0x06-regular_expressions":{"items":[{"name":"0-simply_match_holberton.rb","path":"0x06-regular_expressions/0-simply_match_holberton.rb","contentType":"file"},{"name":"1-repetition_token_0.rb","path":"0x06-regular_expressions/1-repetition_token_0.rb","contentType":"file"},{"name":"100-textme.rb","path":"0x06-regular_expressions/100-textme.rb","contentType":"file"},{"name":"101-passed_linkedin_regex_challenge.jpg","path":"0x06-regular_expressions/101-passed_linkedin_regex_challenge.jpg","contentType":"file"},{"name":"2-repetition_token_1.rb","path":"0x06-regular_expressions/2-repetition_token_1.rb","contentType":"file"},{"name":"3-repetition_token_2.rb","path":"0x06-regular_expressions/3-repetition_token_2.rb","contentType":"file"},{"name":"4-repetition_token_3.rb","path":"0x06-regular_expressions/4-repetition_token_3.rb","contentType":"file"},{"name":"5-beginning_and_end.rb","path":"0x06-regular_expressions/5-beginning_and_end.rb","contentType":"file"},{"name":"6-phone_number.rb","path":"0x06-regular_expressions/6-phone_number.rb","contentType":"file"},{"name":"7-OMG_WHY_ARE_YOU_SHOUTING.rb","path":"0x06-regular_expressions/7-OMG_WHY_ARE_YOU_SHOUTING.rb","contentType":"file"},{"name":"README.md","path":"0x06-regular_expressions/README.md","contentType":"file"}],"totalCount":11},"":{"items":[{"name":"0x00-shell_basics","path":"0x00-shell_basics","contentType":"directory"},{"name":"0x01-shell_permissions","path":"0x01-shell_permissions","contentType":"directory"},{"name":"0x02-shell_redirections","path":"0x02-shell_redirections","contentType":"directory"},{"name":"0x03-shell_variables_expansions","path":"0x03-shell_variables_expansions","contentType":"directory"},{"name":"0x04-loops_conditions_and_parsing","path":"0x04-loops_conditions_and_parsing","contentType":"directory"},{"name":"0x05-processes_and_signals","path":"0x05-processes_and_signals","contentType":"directory"},{"name":"0x06-regular_expressions","path":"0x06-regular_expressions","contentType":"directory"},{"name":"0x07-networking_basics","path":"0x07-networking_basics","contentType":"directory"},{"name":"0x08-networking_basics_2","path":"0x08-networking_basics_2","contentType":"directory"},{"name":"0x0A-ssh","path":"0x0A-ssh","contentType":"directory"},{"name":"0x0B-web_server","path":"0x0B-web_server","contentType":"directory"},{"name":"0x0C-web_stack_debugging_0","path":"0x0C-web_stack_debugging_0","contentType":"directory"},{"name":"0x0D-configuration_management","path":"0x0D-configuration_management","contentType":"directory"},{"name":"0x0E-web_stack_debugging_1","path":"0x0E-web_stack_debugging_1","contentType":"directory"},{"name":"0x0F-load_balancer","path":"0x0F-load_balancer","contentType":"directory"},{"name":"0x10-https_ssl","path":"0x10-https_ssl","contentType":"directory"},{"name":"0x11-what_happens_when_your_type_holbertonschool_com_in_your_browser_and_press_enter","path":"0x11-what_happens_when_your_type_holbertonschool_com_in_your_browser_and_press_enter","contentType":"directory"},{"name":"0x12-web_stack_debugging_2","path":"0x12-web_stack_debugging_2","contentType":"directory"},{"name":"0x13-firewall","path":"0x13-firewall","contentType":"directory"},{"name":"0x14-mysql","path":"0x14-mysql","contentType":"directory"},{"name":"0x15-api","path":"0x15-api","contentType":"directory"},{"name":"0x16-api_advanced","path":"0x16-api_advanced","contentType":"directory"},{"name":"0x17-web_stack_debugging_3","path":"0x17-web_stack_debugging_3","contentType":"directory"},{"name":"0x18-webstack_monitoring","path":"0x18-webstack_monitoring","contentType":"directory"},{"name":"0x19-postmortem","path":"0x19-postmortem","contentType":"directory"},{"name":"attack_is_the_best_defense","path":"attack_is_the_best_defense","contentType":"directory"},{"name":"README.md","path":"README.md","contentType":"file"}],"totalCount":27}},"fileTreeProcessingTime":11.078346,"foldersToFetch":[],"reducedMotionEnabled":"system","repo":{"id":102635035,"defaultBranch":"master","name":"holberton-system_engineering-devops","ownerLogin":"Raid55","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2017-09-06T19:57:19.000+03:00","ownerAvatar":"https://avatars.githubusercontent.com/u/23468320?v=4","public":true,"private":false,"isOrgOwned":false},"refInfo":{"name":"master","listCacheKey":"v0:1504725074.0","canEdit":true,"refType":"branch","currentOid":"6c9f2e7a08ad721d8efc1a48cf06a527d5b517da"},"path":"0x06-regular_expressions/100-textme.rb","currentUser":{"id":121699258,"login":"OdochHerbert","userEmail":"odoherb@gmail.com"},"blob":{"rawBlob":"#!/usr/bin/env ruby\nputs ARGV[0].scan(/(?\u003c=from:|to:|flags:).+?(?=\\])/).join(',')","colorizedLines":null,"stylingDirectives":[[{"start":0,"end":19,"cssClass":"pl-c"}],[{"start":0,"end":4,"cssClass":"pl-en"},{"start":5,"end":9,"cssClass":"pl-c1"},{"start":9,"end":10,"cssClass":"pl-kos"},{"start":10,"end":11,"cssClass":"pl-c1"},{"start":11,"end":12,"cssClass":"pl-kos"},{"start":12,"end":13,"cssClass":"pl-kos"},{"start":13,"end":17,"cssClass":"pl-en"},{"start":17,"end":18,"cssClass":"pl-kos"},{"start":18,"end":50,"cssClass":"pl-sr"},{"start":46,"end":48,"cssClass":"pl-cce"},{"start":50,"end":51,"cssClass":"pl-kos"},{"start":51,"end":52,"cssClass":"pl-kos"},{"start":52,"end":56,"cssClass":"pl-en"},{"start":56,"end":57,"cssClass":"pl-kos"},{"start":57,"end":60,"cssClass":"pl-s"},{"start":60,"end":61,"cssClass":"pl-kos"}]],"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/Raid55/holberton-system_engineering-devops/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false,"repoAlertsPath":"/Raid55/holberton-system_engineering-devops/security/dependabot","repoSecurityAndAnalysisPath":"/Raid55/holberton-system_engineering-devops/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"100-textme.rb","displayUrl":"https://github.com/Raid55/holberton-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb?raw=true","headerInfo":{"blobSize":"81 Bytes","deleteInfo":{"deletePath":"https://github.com/Raid55/holberton-system_engineering-devops/delete/master/0x06-regular_expressions/100-textme.rb","deleteTooltip":"Fork this repository and delete the file"},"editInfo":{"editTooltip":"Fork this repository and edit the file"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"9e3be8f","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2FRaid55%2Fholberton-system_engineering-devops%2Fblob%2Fmaster%2F0x06-regular_expressions%2F100-textme.rb","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"2","truncatedSloc":"2"},"mode":"executable file"},"image":false,"isCodeownersFile":null,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":"Ruby","large":false,"loggedIn":true,"newDiscussionPath":"/Raid55/holberton-system_engineering-devops/discussions/new","newIssuePath":"/Raid55/holberton-system_engineering-devops/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/Raid55/holberton-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/Raid55/holberton-system_engineering-devops/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"Raid55","repoName":"holberton-system_engineering-devops","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timedOut":false,"notAnalyzed":false,"symbols":[]}},"csrf_tokens":{"/Raid55/holberton-system_engineering-devops/branches":{"post":"OH7Bun1KyL29t_yu1cBwc9AvuLJSHXFqA5Y_xNVgBUdRAgsQwLp-DeBWIOnlJ5UIpFDXl6oU5L-KW5yhNixOBA"}}},"title":"holberton-system_engineering-devops/0x06-regular_expressions/100-textme.rb at master · Raid55/holberton-system_engineering-devops","locale":"en","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-848bb9a5da17.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-c9b8ff248bc9.js","githubDevUrl":"https://github.dev/","enabled_features":{"virtualize_file_tree":true,"react_repos_overview":false,"repos_new_shortcut_enabled":true,"blob_navigation_cursor":true,"code_nav_ui_events":false,"ref_selector_v2":false,"codeview_codemirror_next_editors":false,"blob_firefox_separate_characters":true,"column_symbol_auto_select":false,"copilot_conversational_ux":false}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":true,"fileTree":{"0x06-regular_expressions":{"items":[{"name":".gitignore","path":"0x06-regular_expressions/.gitignore","contentType":"file"},{"name":"0-simply_match_school.rb","path":"0x06-regular_expressions/0-simply_match_school.rb","contentType":"file"},{"name":"1-repetition_token_0.rb","path":"0x06-regular_expressions/1-repetition_token_0.rb","contentType":"file"},{"name":"100-textme.rb","path":"0x06-regular_expressions/100-textme.rb","contentType":"file"},{"name":"2-repetition_token_1.rb","path":"0x06-regular_expressions/2-repetition_token_1.rb","contentType":"file"},{"name":"3-repetition_token_2.rb","path":"0x06-regular_expressions/3-repetition_token_2.rb","contentType":"file"},{"name":"4-repetition_token_3.rb","path":"0x06-regular_expressions/4-repetition_token_3.rb","contentType":"file"},{"name":"5-beginning_and_end.rb","path":"0x06-regular_expressions/5-beginning_and_end.rb","contentType":"file"},{"name":"6-phone_number.rb","path":"0x06-regular_expressions/6-phone_number.rb","contentType":"file"},{"name":"7-OMG_WHY_ARE_YOU_SHOUTING.rb","path":"0x06-regular_expressions/7-OMG_WHY_ARE_YOU_SHOUTING.rb","contentType":"file"},{"name":"README.md","path":"0x06-regular_expressions/README.md","contentType":"file"}],"totalCount":11},"":{"items":[{"name":"0x00-shell_basics","path":"0x00-shell_basics","contentType":"directory"},{"name":"0x01-shell_permissions","path":"0x01-shell_permissions","contentType":"directory"},{"name":"0x02-shell_redirections","path":"0x02-shell_redirections","contentType":"directory"},{"name":"0x03-shell_variables_expansions","path":"0x03-shell_variables_expansions","contentType":"directory"},{"name":"0x04-loops_conditions_and_parsing","path":"0x04-loops_conditions_and_parsing","contentType":"directory"},{"name":"0x05-processes_and_signals","path":"0x05-processes_and_signals","contentType":"directory"},{"name":"0x06-regular_expressions","path":"0x06-regular_expressions","contentType":"directory"},{"name":"0x07-networking_basics","path":"0x07-networking_basics","contentType":"directory"},{"name":"0x08-networking_basics_2","path":"0x08-networking_basics_2","contentType":"directory"},{"name":"0x09-web_infrastructure_design","path":"0x09-web_infrastructure_design","contentType":"directory"},{"name":"0x0A-configuration_management","path":"0x0A-configuration_management","contentType":"directory"},{"name":"0x0B-ssh","path":"0x0B-ssh","contentType":"directory"},{"name":"0x0C-web_server","path":"0x0C-web_server","contentType":"directory"},{"name":"0x0D-web_stack_debugging_0","path":"0x0D-web_stack_debugging_0","contentType":"directory"},{"name":"0x0E-web_stack_debugging_1","path":"0x0E-web_stack_debugging_1","contentType":"directory"},{"name":"0x0F-load_balancer","path":"0x0F-load_balancer","contentType":"directory"},{"name":"0x10-https_ssl","path":"0x10-https_ssl","contentType":"directory"},{"name":"0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter","path":"0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter","contentType":"directory"},{"name":"0x12-web_stack_debugging_2","path":"0x12-web_stack_debugging_2","contentType":"directory"},{"name":"0x13-firewall","path":"0x13-firewall","contentType":"directory"},{"name":"0x14-mysql","path":"0x14-mysql","contentType":"directory"},{"name":"0x15-api","path":"0x15-api","contentType":"directory"},{"name":"0x16-api_advanced","path":"0x16-api_advanced","contentType":"directory"},{"name":"0x17-web_stack_debugging_3","path":"0x17-web_stack_debugging_3","contentType":"directory"},{"name":"0x18-webstack_monitoring","path":"0x18-webstack_monitoring","contentType":"directory"},{"name":"0x19-postmortem","path":"0x19-postmortem","contentType":"directory"},{"name":"0x1A-application_server","path":"0x1A-application_server","contentType":"directory"},{"name":"0x1B-web_stack_debugging_4","path":"0x1B-web_stack_debugging_4","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"}],"totalCount":30}},"fileTreeProcessingTime":10.889446000000001,"foldersToFetch":[],"reducedMotionEnabled":"system","repo":{"id":375165638,"defaultBranch":"master","name":"alx-system_engineering-devops","ownerLogin":"nuel07","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2021-06-09T01:57:43.000+03:00","ownerAvatar":"https://avatars.githubusercontent.com/u/73999392?v=4","public":true,"private":false,"isOrgOwned":false},"refInfo":{"name":"master","listCacheKey":"v0:1623193553.676608","canEdit":true,"refType":"branch","currentOid":"6515232f547590cde4c3960a1a512640ec8819c9"},"path":"0x06-regular_expressions/100-textme.rb","currentUser":{"id":121699258,"login":"OdochHerbert","userEmail":"odoherb@gmail.com"},"blob":{"rawBlob":"#!/usr/bin/env ruby\nputs ARGV[0].scan(/\\[from:(.*?)\\] \\[to:(.*?)\\] \\[flags:(.*?)\\]/).join(\",\")\n","colorizedLines":null,"stylingDirectives":[[{"start":0,"end":19,"cssClass":"pl-c"}],[{"start":0,"end":4,"cssClass":"pl-en"},{"start":5,"end":9,"cssClass":"pl-c1"},{"start":9,"end":10,"cssClass":"pl-kos"},{"start":10,"end":11,"cssClass":"pl-c1"},{"start":11,"end":12,"cssClass":"pl-kos"},{"start":12,"end":13,"cssClass":"pl-kos"},{"start":13,"end":17,"cssClass":"pl-en"},{"start":17,"end":18,"cssClass":"pl-kos"},{"start":18,"end":63,"cssClass":"pl-sr"},{"start":19,"end":21,"cssClass":"pl-cce"},{"start":31,"end":33,"cssClass":"pl-cce"},{"start":34,"end":36,"cssClass":"pl-cce"},{"start":44,"end":46,"cssClass":"pl-cce"},{"start":47,"end":49,"cssClass":"pl-cce"},{"start":60,"end":62,"cssClass":"pl-cce"},{"start":63,"end":64,"cssClass":"pl-kos"},{"start":64,"end":65,"cssClass":"pl-kos"},{"start":65,"end":69,"cssClass":"pl-en"},{"start":69,"end":70,"cssClass":"pl-kos"},{"start":70,"end":73,"cssClass":"pl-s"},{"start":73,"end":74,"cssClass":"pl-kos"}]],"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/nuel07/alx-system_engineering-devops/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false,"repoAlertsPath":"/nuel07/alx-system_engineering-devops/security/dependabot","repoSecurityAndAnalysisPath":"/nuel07/alx-system_engineering-devops/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"100-textme.rb","displayUrl":"https://github.com/nuel07/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb?raw=true","headerInfo":{"blobSize":"95 Bytes","deleteInfo":{"deletePath":"https://github.com/nuel07/alx-system_engineering-devops/delete/master/0x06-regular_expressions/100-textme.rb","deleteTooltip":"Fork this repository and delete the file"},"editInfo":{"editTooltip":"Fork this repository and edit the file"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"9c7fbb1","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fnuel07%2Falx-system_engineering-devops%2Fblob%2Fmaster%2F0x06-regular_expressions%2F100-textme.rb","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"2","truncatedSloc":"2"},"mode":"executable file"},"image":false,"isCodeownersFile":null,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":"Ruby","large":false,"loggedIn":true,"newDiscussionPath":"/nuel07/alx-system_engineering-devops/discussions/new","newIssuePath":"/nuel07/alx-system_engineering-devops/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/nuel07/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/nuel07/alx-system_engineering-devops/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"nuel07","repoName":"alx-system_engineering-devops","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timedOut":false,"notAnalyzed":false,"symbols":[]}},"csrf_tokens":{"/nuel07/alx-system_engineering-devops/branches":{"post":"c0aHqRFpPKFnq9tjciWbu06abC4-pq_8hWozSbhk_iQdSv1ygpsDknYXKpf_YnnHKy7RNi7nFPIqNeAfCkB_Jg"}}},"title":"alx-system_engineering-devops/0x06-regular_expressions/100-textme.rb at master · nuel07/alx-system_engineering-devops","locale":"en","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-848bb9a5da17.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-c9b8ff248bc9.js","githubDevUrl":"https://github.dev/","enabled_features":{"virtualize_file_tree":true,"react_repos_overview":false,"repos_new_shortcut_enabled":true,"blob_navigation_cursor":true,"code_nav_ui_events":false,"ref_selector_v2":false,"codeview_codemirror_next_editors":false,"blob_firefox_separate_characters":true,"column_symbol_auto_select":false,"copilot_conversational_ux":false}}}</script>
   <div data-target="react-app.reactRoot"></div>
 </react-app>
 </turbo-frame>
