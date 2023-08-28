@@ -1,18 +1,18 @@
 #!/usr/bin/env bash
-#configure a custom 404 page
+# configure nginx server to give 404 page
 
-apt-get -y update
-apt-get -y install nginx
-# is used to allow incoming connections to the Nginx HTTP server through the firewall through port 80. using the ufw (Uncomplicated Firewall) command-line tool.
-sudo ufw allow 'Nginx HTTP'
+apt-get update
+apt-get install -y nginx
 
-echo 'Hello World!' > /var/www/html/index.nginx-debian.html
-service nginx start
-
-# Setting up /redirect_me to a permanent redirect to https://twitter.com/ai_optimizer
-sudo sed -i '24i\rewrite ^/redirect_me https://twitter.com/ai_optimizer permanent;' /etc/nginx/sites-available/default
-service nginx restart
-# Set up a 404 page
-echo "Ceci n'est pas une page" >> /var/www/html/error_404.html
-sudo sed -i '25i\	error_page 404 /error_404.html;' /etc/nginx/sites-available/default
+mkdir /etc/nginx/html
+touch /etc/nginx/html/index.html
+# returns Hello World!
+echo "Hello World!" > /etc/nginx/html/index.html
+# redirection
+TEXT="location /redirect_me {\\n return 301 https://www.youtube.com/watch?v=QH2-TGUlwu4;\\n}\\n"
+sudo sed -i "42i $TEXT" /etc/nginx/sites-available/default
+# 3 HTTP 404 error page inclu Ceci n'est pas une page
+echo "Ceci n'est pas une page" | tee /var/www/html/404.html
+CUSTOM="error_page 404 /404.html;\nlocation = /404.html {\nroot /var/www/html;\ninternal;\n}"
+sudo sed -i "/server_name _;/a $CUSTOM" /etc/nginx/sites-available/default
 service nginx restart
