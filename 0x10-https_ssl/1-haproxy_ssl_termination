@@ -38,7 +38,7 @@ defaults
 	option forwardfor                                                
         option http-server-close                                                                                                     
                                                                                                                                      
-frontend nuel07                                                                                                                      
+frontend odoch.tech                                                                                                                     
         bind *:80                                                                                                                    
         mode http                                                                                                                    
         http-request add-header X-Forwarded-Proto http if !{ ssl_fc }                                                               
@@ -47,7 +47,7 @@ frontend www-https
         bind *:443 ssl crt /etc/haproxy/certs/www.korp.tech.pem                                                                      
         http-request add-header X-Forwarded-Proto https if !{ ssl_fc }
         default_backend nuel07                                                                      
-backend nuel07                                                                                                                       
+backend odoch.tech                                                                                                                       
         redirect scheme https if !{ ssl_fc }                                                   
         balance roundrobin                                                                                                           
         server 368-web-01 3.239.76.17:80 check                                                                                       
