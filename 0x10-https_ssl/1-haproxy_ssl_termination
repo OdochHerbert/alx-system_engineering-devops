@@ -42,13 +42,13 @@ frontend odoch.tech
         bind *:80                                                                                                                    
         mode http                                                                                                                    
         http-request add-header X-Forwarded-Proto http if !{ ssl_fc }                                                               
-        default_backend nuel07                                                                                                       
+        default_backend odoch.tech                                                                                                       
 frontend www-https                                                                                                                   
-        bind *:443 ssl crt /etc/haproxy/certs/www.korp.tech.pem                                                                      
+        bind *:443 ssl crt /etc/haproxy/certs/www.odoch.tech                                                                      
         http-request add-header X-Forwarded-Proto https if !{ ssl_fc }
-        default_backend nuel07                                                                      
+        default_backend odoch.tech                                                                      
 backend odoch.tech                                                                                                                       
         redirect scheme https if !{ ssl_fc }                                                   
         balance roundrobin                                                                                                           
-        server 368-web-01 3.239.76.17:80 check                                                                                       
-        server 368-web-02 34.229.62.150:80 check                                                                                     
+        server 244227-web-01 34.207.121.80:80 check                                                                                       
+        server 244227-web-02 34.207.62.100:80 check                                                                                     
