@@ -1,4 +1,14 @@
-#!/bin/env bash
-# Reloads gunicorn
+#!/bin/bash
 
-ps aux| grep gunicorn | awk '{ print $2}' | xargs kill -HUP
+# Get the Gunicorn master PID
+MASTER_PID=$(ps aux | grep 'gunicorn' | grep -v 'grep' | awk '{print $2}' | head -1)
+
+# Reload Gunicorn gracefully
+if [ -n "$MASTER_PID" ]; then
+    echo "Reloading Gunicorn gracefully..."
+    kill -HUP "$MASTER_PID"
+    echo "Gunicorn successfully reloaded."
+else
+    echo "Gunicorn process not found."
+fi
+
